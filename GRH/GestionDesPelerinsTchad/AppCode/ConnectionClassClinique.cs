@@ -16,8 +16,8 @@ namespace SGSP.AppCode
         static ConnectionClassClinique()
         {
             string connectionString =
-                @"server=192.168.1.3;user id=hnda;password=Hnda2021;database=clinique_db";
-                //@"server=localhost;port=3306;user id=root;password=chris@2020;database=clinique_db";
+                //@"server=192.168.1.3;user id=hnda;password=Hnda2021;database=clinique_db";
+                @"server=localhost;port=3306;user id=root;password=chris@2020;database=clinique_db";
             connection = new MySqlConnection(connectionString);
             command = new MySqlCommand("", connection);
         }

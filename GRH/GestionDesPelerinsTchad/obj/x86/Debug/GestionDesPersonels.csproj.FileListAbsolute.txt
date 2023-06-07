@@ -283,3 +283,8 @@ C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\Gestion
 C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csprojResolveAssemblyReference.cache
 C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\RdlCompile.cache
 C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\RdlCompile.compiled
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital-Bebidja\GRH\GestionDesPelerinsTchad\bin\Debug\GestionDesPelerinsTchad.exe.config
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital-Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\Interop.WIA.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital-Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPersonels.csproj.ResolveComReference.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital-Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital-Bebidja\GRH\GestionDesPelerinsTchad\obj\x86\Debug\GestionDesPelerinsTchad.pdb

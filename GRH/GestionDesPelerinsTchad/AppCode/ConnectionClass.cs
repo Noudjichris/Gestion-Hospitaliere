@@ -17,8 +17,8 @@ namespace SGSP.AppCode
         static ConnectionClass()
         {
             var connectionString =
-                //@"server=192.168.1.211;user id=Hbebidja;database=;port=3306;password=Hbebidja2020;database=personnel_db";
-            @"server=localhost;port=3306;user id=root;password=chris@2022;database=personnel_db";
+                @"server=192.168.1.211;user id=Hbebidja;database=;port=3306;password=Hbebidja2020;database=personnel_db";
+            //@"server=localhost;port=3306;user id=root;password=chris@2022;database=personnel_db";
             _connection = new MySqlConnection(connectionString);
             _command = new MySqlCommand("", _connection);
         }

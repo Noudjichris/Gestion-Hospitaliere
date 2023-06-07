@@ -1,2 +1,2 @@
-# Gestion-Hospitaliere-NDA
-ceci est un le systeme de gestion de l'hopital NDA
+# Gestion-Hospitaliere
+ceci est un le systeme de gestion de l'hopital

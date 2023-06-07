@@ -1,0 +1,530 @@
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.LivraisonFrm.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Globe terrestreUpdate_2\GestionMySQL\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.537.tlog
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.537.tlog
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\toutes les project\ErrePharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Erre Credit\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.5.tlog
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\PH Rue 40\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\New Pharmacie\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NGARO\Desktop\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csprojResolveAssemblyReference.cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csproj.GenerateResource.Cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Pour Berdei\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csprojResolveAssemblyReference.cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csproj.GenerateResource.Cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Berdei pharmacy\GestionPharmacetique\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csprojResolveAssemblyReference.cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeMedicamentCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csproj.GenerateResource.Cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form3.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RetourLivrFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\Haras PH\GestionPharmacetique\obj\x86\Debug\ImpoterLesDonneesExcels.Form1.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.DetailLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form2.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.Form3.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\ImpoterLesDonneesExcels.Form1.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FournisseurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\SystemGestionPharmacie.Formes.frm_login.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.InfoEmployFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireStockFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeCreditFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ListeUtilisateurCtrl.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportLivraisonFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercherMedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RetourLivrFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.UtilisteurFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csproj.GenerateResource.Cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetiqueErre.csprojResolveAssemblyReference.cache
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\CHRIST\Documents\Visual Studio 2013\Projects\PH Version 2.2\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application

@@ -1,0 +1,37 @@
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.ExamFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.MainForm.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.GenerateResource.Cache
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.exe
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.pdb
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.ExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.MainForm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.ExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.MainForm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.BilanExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.EmplFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\bin\Debug\sharpPDF.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csprojAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.CoreCompileInputs.cache

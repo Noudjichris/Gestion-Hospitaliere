@@ -1,0 +1,836 @@
+﻿*****************Erreur apparue le 15/03/2020 16:38:30**********************
+Erreur
+MySqlException
+Duplicate entry '1177-27-Cellules rénales-Rares' for key 'PRIMARY'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '1177-27-Cellules rénales-Rares' for key 'PRIMARY'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerLesResultatsDuPatient(DataGridView dgv, Patient patient, Boolean flag, Boolean siNFS) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 598
+
+
+*****************Erreur apparue le 16/03/2020 09:26:47**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 09:26:47**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 09:27:27**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 09:27:28**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:04:36**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:04:36**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:16:57**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:16:57**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:17:08**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:17:08**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:34:42**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:34:42**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:34:49**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:34:49**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:43:13**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:43:13**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:43:26**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:43:26**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 10:57:16**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 10:57:16**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 11:36:03**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 11:36:03**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 11:42:46**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 11:42:46**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 11:42:59**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 11:42:59**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 11:58:10**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 11:58:10**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 11:59:43**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 11:59:43**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 11:59:54**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 11:59:55**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 13:38:24**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 465
+
+*****************Erreur apparue le 16/03/2020 13:38:24**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 16/03/2020 13:40:22**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 466
+
+*****************Erreur apparue le 16/03/2020 13:40:22**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 94
+
+*****************Erreur apparue le 16/03/2020 13:40:40**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 466
+
+*****************Erreur apparue le 16/03/2020 13:40:40**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 94
+
+*****************Erreur apparue le 16/03/2020 13:41:43**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 466
+
+*****************Erreur apparue le 16/03/2020 13:41:43**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 94
+
+*****************Erreur apparue le 16/03/2020 14:32:49**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 466
+
+*****************Erreur apparue le 16/03/2020 14:32:49**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 94
+
+*****************Erreur apparue le 27/04/2020 19:48:20**********************
+Liste analyse
+TypeInitializationException
+Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'.
+System.TypeInitializationException: Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'. ---> System.ArgumentException: Le format de la chaîne d'initialisation n'est pas conforme à la spécification qui débute à l'index 80.
+   à System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   à System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   à System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   à System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor(String connStr)
+   à MySql.Data.MySqlClient.MySqlConnection.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnection..ctor(String connectionString)
+   à LabMonitoring.AppCode.ConnectionClass..cctor() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 24
+   --- Fin de la trace de la pile d'exception interne ---
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen()
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 464
+
+*****************Erreur apparue le 27/04/2020 19:48:20**********************
+Liste analyse
+TypeInitializationException
+Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'.
+System.TypeInitializationException: Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'. ---> System.ArgumentException: Le format de la chaîne d'initialisation n'est pas conforme à la spécification qui débute à l'index 80.
+   à System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   à System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   à System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   à System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor(String connStr)
+   à MySql.Data.MySqlClient.MySqlConnection.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnection..ctor(String connectionString)
+   à LabMonitoring.AppCode.ConnectionClass..cctor() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 24
+   --- Fin de la trace de la pile d'exception interne ---
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen()
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 92
+
+*****************Erreur apparue le 27/04/2020 19:54:23**********************
+Liste analyse
+TypeInitializationException
+Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'.
+System.TypeInitializationException: Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'. ---> System.ArgumentException: Le format de la chaîne d'initialisation n'est pas conforme à la spécification qui débute à l'index 80.
+   à System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   à System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   à System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   à System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor(String connStr)
+   à MySql.Data.MySqlClient.MySqlConnection.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnection..ctor(String connectionString)
+   à LabMonitoring.AppCode.ConnectionClass..cctor() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 24
+   --- Fin de la trace de la pile d'exception interne ---
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen()
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 330
+
+*****************Erreur apparue le 27/04/2020 19:54:23**********************
+Liste analyse
+TypeInitializationException
+Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'.
+System.TypeInitializationException: Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'. ---> System.ArgumentException: Le format de la chaîne d'initialisation n'est pas conforme à la spécification qui débute à l'index 80.
+   à System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   à System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   à System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   à System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor(String connStr)
+   à MySql.Data.MySqlClient.MySqlConnection.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnection..ctor(String connectionString)
+   à LabMonitoring.AppCode.ConnectionClass..cctor() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 24
+   --- Fin de la trace de la pile d'exception interne ---
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen()
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 93
+
+*****************Erreur apparue le 27/04/2020 19:54:47**********************
+Liste analyse
+InvalidOperationException
+Impossible d'ajouter une ligne à un contrôle DataGridView dépourvu de colonnes. Les colonnes doivent être ajoutées au préalable.
+System.InvalidOperationException: Impossible d'ajouter une ligne à un contrôle DataGridView dépourvu de colonnes. Les colonnes doivent être ajoutées au préalable.
+   à System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   à System.Windows.Forms.DataGridViewRowCollection.Add(Object[] values)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 111
+
+*****************Erreur apparue le 27/04/2020 19:59:20**********************
+Liste analyse
+InvalidOperationException
+Impossible d'ajouter une ligne à un contrôle DataGridView dépourvu de colonnes. Les colonnes doivent être ajoutées au préalable.
+System.InvalidOperationException: Impossible d'ajouter une ligne à un contrôle DataGridView dépourvu de colonnes. Les colonnes doivent être ajoutées au préalable.
+   à System.Windows.Forms.DataGridViewRowCollection.AddInternal(Boolean newRow, Object[] values)
+   à System.Windows.Forms.DataGridViewRowCollection.Add(Object[] values)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 111
+
+*****************Erreur apparue le 27/04/2020 21:22:02**********************
+Liste analyse
+TypeInitializationException
+Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'.
+System.TypeInitializationException: Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'. ---> System.ArgumentException: Le format de la chaîne d'initialisation n'est pas conforme à la spécification qui débute à l'index 80.
+   à System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   à System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   à System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   à System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor(String connStr)
+   à MySql.Data.MySqlClient.MySqlConnection.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnection..ctor(String connectionString)
+   à LabMonitoring.AppCode.ConnectionClass..cctor() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 24
+   --- Fin de la trace de la pile d'exception interne ---
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen()
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 322
+
+*****************Erreur apparue le 27/04/2020 21:22:02**********************
+Liste analyse
+TypeInitializationException
+Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'.
+System.TypeInitializationException: Une exception a été levée par l'initialiseur de type pour 'LabMonitoring.AppCode.ConnectionClass'. ---> System.ArgumentException: Le format de la chaîne d'initialisation n'est pas conforme à la spécification qui débute à l'index 80.
+   à System.Data.Common.DbConnectionOptions.GetKeyValuePair(String connectionString, Int32 currentPosition, StringBuilder buffer, Boolean useOdbcRules, String& keyname, String& keyvalue)
+   à System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   à System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   à System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor(String connStr)
+   à MySql.Data.MySqlClient.MySqlConnection.set_ConnectionString(String value)
+   à MySql.Data.MySqlClient.MySqlConnection..ctor(String connectionString)
+   à LabMonitoring.AppCode.ConnectionClass..cctor() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 24
+   --- Fin de la trace de la pile d'exception interne ---
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen()
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 92
+
+*****************Erreur apparue le 28/04/2020 23:21:05**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 324
+
+*****************Erreur apparue le 28/04/2020 23:21:05**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 94
+
+*****************Erreur apparue le 05/05/2020 09:04:17**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 324
+
+*****************Erreur apparue le 06/05/2020 11:10:54**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 326
+
+*****************Erreur apparue le 06/05/2020 11:11:35**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 96
+
+*****************Erreur apparue le 07/05/2020 14:01:27**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 327
+
+*****************Erreur apparue le 07/05/2020 14:01:27**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 97
+
+*****************Erreur apparue le 07/05/2020 16:20:18**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 327
+
+*****************Erreur apparue le 07/05/2020 16:20:19**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 97
+
+*****************Erreur apparue le 07/05/2020 16:39:29**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 327
+
+*****************Erreur apparue le 08/05/2020 09:27:02**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 328
+
+*****************Erreur apparue le 08/05/2020 09:27:32**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 98
+
+*****************Erreur apparue le 08/05/2020 12:12:15**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 98
+
+*****************Erreur apparue le 08/05/2020 21:39:58**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse()
+
+*****************Erreur apparue le 13/05/2020 20:22:16**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 338
+
+*****************Erreur apparue le 14/05/2020 13:12:24**********************
+Erreur
+MySqlException
+Unknown column 'service' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'service' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerLesResultatsDuPatient(DataGridView dgv, Patient patient, Boolean flag, Boolean siNFS)
+
+
+*****************Erreur apparue le 14/05/2020 13:12:47**********************
+Erreur
+MySqlException
+Unknown column 'service' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'service' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerLesResultatsDuPatient(DataGridView dgv, Patient patient, Boolean flag, Boolean siNFS)
+
+
+*****************Erreur apparue le 15/05/2020 09:43:56**********************
+Erreur
+MySqlException
+Column count doesn't match value count at row 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Column count doesn't match value count at row 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerLesResultatsDuPatient(DataGridView dgv, Patient patient, Boolean flag, Boolean siNFS) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 567
+
+
+*****************Erreur apparue le 15/05/2020 14:35:28**********************
+Erreur
+MySqlException
+Column count doesn't match value count at row 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Column count doesn't match value count at row 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerUnPrescriteur(Int32 id, String nom) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 766
+
+
+*****************Erreur apparue le 15/05/2020 14:35:54**********************
+Erreur
+MySqlException
+Parameter 'nom' has already been defined.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter 'nom' has already been defined.
+   à MySql.Data.MySqlClient.MySqlParameterCollection.InternalAdd(MySqlParameter value, Int32 index)
+   à MySql.Data.MySqlClient.MySqlParameterCollection.Add(MySqlParameter value)
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerUnPrescriteur(Int32 id, String nom) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 764
+
+
+*****************Erreur apparue le 15/05/2020 14:36:47**********************
+Erreur
+MySqlException
+Parameter 'nom' has already been defined.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter 'nom' has already been defined.
+   à MySql.Data.MySqlClient.MySqlParameterCollection.InternalAdd(MySqlParameter value, Int32 index)
+   à MySql.Data.MySqlClient.MySqlParameterCollection.Add(MySqlParameter value)
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerUnPrescriteur(Int32 id, String nom) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 764
+
+
+*****************Erreur apparue le 15/05/2020 14:37:30**********************
+Erreur
+MySqlException
+Parameter 'nom' has already been defined.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter 'nom' has already been defined.
+   à MySql.Data.MySqlClient.MySqlParameterCollection.InternalAdd(MySqlParameter value, Int32 index)
+   à MySql.Data.MySqlClient.MySqlParameterCollection.Add(MySqlParameter value)
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerUnPrescriteur(Int32 id, String nom) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 764
+
+
+*****************Erreur apparue le 15/05/2020 14:37:53**********************
+Erreur
+MySqlException
+Parameter 'nom' has already been defined.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter 'nom' has already been defined.
+   à MySql.Data.MySqlClient.MySqlParameterCollection.InternalAdd(MySqlParameter value, Int32 index)
+   à MySql.Data.MySqlClient.MySqlParameterCollection.Add(MySqlParameter value)
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerUnPrescriteur(Int32 id, String nom)
+
+
+*****************Erreur apparue le 15/05/2020 14:39:57**********************
+Erreur
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET nom ='ngaba' WHERE id = 1' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET nom ='ngaba' WHERE id = 1' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerUnPrescriteur(Int32 id, String nom)
+
+
+*****************Erreur apparue le 02/06/2020 11:50:42**********************
+Erreur
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerLesResultatsDuPatient(DataGridView dgv, Patient patient, Boolean flag, Boolean siNFS) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 561
+
+
+*****************Erreur apparue le 09/06/2020 11:50:18**********************
+Erreur
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à LabMonitoring.AppCode.ConnectionClass.EnregistrerLesResultatsDuPatient(DataGridView dgv, Patient patient, Boolean flag, Boolean siNFS) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 561
+
+

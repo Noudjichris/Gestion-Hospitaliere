@@ -1,0 +1,12 @@
+﻿*****************Erreur apparue le 27/03/2023 11:30:37**********************
+Rapport entreprise
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.Collections.ArrayList.get_Item(Int32 index)
+   à System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   à System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   à GestionDuneClinique.Formes.RapportEntrepriseFrm.button1_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\Hopital\GestionDuneClinique\FormesClinique\RapportEntrepriseFrm.cs:ligne 375
+

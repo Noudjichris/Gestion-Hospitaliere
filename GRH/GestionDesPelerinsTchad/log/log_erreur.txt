@@ -1,0 +1,1394 @@
+﻿*****************Erreur apparue le 17/01/2022 15:52:05**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/01/2022 15:52:10**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/01/2022 15:59:48**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:11**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:12**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:12**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:12**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:00:12**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2270
+
+*****************Erreur apparue le 17/01/2022 16:01:15**********************
+Impression du bulletin
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 418
+
+*****************Erreur apparue le 17/01/2022 16:01:24**********************
+Impression du bulletin
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 418
+
+*****************Erreur apparue le 17/01/2022 16:01:30**********************
+Impression du bulletin
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 447
+
+*****************Erreur apparue le 17/01/2022 16:01:33**********************
+Impression du bulletin
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 447
+
+*****************Erreur apparue le 17/01/2022 16:01:40**********************
+Impression du bulletin
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 447
+
+*****************Erreur apparue le 17/01/2022 16:01:41**********************
+Impression du bulletin
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 447
+
+*****************Erreur apparue le 17/01/2022 16:16:36**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/01/2022 16:39:16**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees()
+
+*****************Erreur apparue le 17/01/2022 17:25:51**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a)
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e)
+
+*****************Erreur apparue le 18/01/2022 09:53:55**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 18/01/2022 11:14:12**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 18/01/2022 11:31:57**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 17/02/2022 13:30:54**********************
+
+MySqlException
+Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: YES)
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.ReadPacket()
+   à MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   à MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   à MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   à MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   à MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 17/02/2022 13:42:36**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 13:43:36**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/02/2022 13:43:51**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 13:45:57**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 13:46:15**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/02/2022 13:48:22**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:01:06**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:01:27**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:01:51**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/02/2022 14:02:06**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:03:11**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:04:31**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/02/2022 14:05:28**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:05:37**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 17/02/2022 14:05:42**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 17/02/2022 14:06:48**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 23/04/2022 15:04:29**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 23/04/2022 15:24:13**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 20/07/2022 10:53:29**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 20/07/2022 11:10:12**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 03/11/2022 12:32:05**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 668
+
+*****************Erreur apparue le 03/11/2022 12:36:34**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 668
+
+*****************Erreur apparue le 03/11/2022 12:44:52**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 668
+
+*****************Erreur apparue le 03/11/2022 12:47:19**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 668
+
+*****************Erreur apparue le 03/11/2022 12:47:48**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 668
+
+*****************Erreur apparue le 03/11/2022 12:49:01**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 03/11/2022 12:52:17**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 06/11/2022 10:28:45**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un hôte impossible à atteindre 192.168.1.211:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 06/11/2022 10:33:44**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un réseau impossible à atteindre 192.168.1.211:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 24/11/2022 14:58:30**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 08/01/2023 18:00:28**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 08/01/2023 18:01:45**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 25/01/2023 10:51:10**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 25/01/2023 11:56:56**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 26/01/2023 10:10:56**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 390
+
+*****************Erreur apparue le 26/01/2023 10:47:20**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un hôte impossible à atteindre 192.168.1.211:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeLibelle(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4397
+
+*****************Erreur apparue le 26/01/2023 10:47:20**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un hôte impossible à atteindre 192.168.1.211:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeCategorie(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4347
+
+*****************Erreur apparue le 26/01/2023 10:47:25**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un hôte impossible à atteindre 192.168.1.211:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeLibelle(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4397
+
+*****************Erreur apparue le 26/01/2023 10:47:26**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un hôte impossible à atteindre 192.168.1.211:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeCategorie(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4347
+
+*****************Erreur apparue le 26/01/2023 10:49:41**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeLibelle(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4397
+
+*****************Erreur apparue le 26/01/2023 10:49:56**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeCategorie(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4347
+
+*****************Erreur apparue le 26/01/2023 10:51:39**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeLibelle(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4397
+
+*****************Erreur apparue le 26/01/2023 10:51:55**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.ListeCategorie(Int32 etat) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4347
+
+*****************Erreur apparue le 26/01/2023 11:17:23**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 667
+
+*****************Erreur apparue le 26/01/2023 12:08:24**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 364
+
+*****************Erreur apparue le 26/01/2023 12:09:57**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 364
+
+*****************Erreur apparue le 26/01/2023 12:17:34**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 364
+
+*****************Erreur apparue le 26/01/2023 12:51:56**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 364
+
+*****************Erreur apparue le 26/01/2023 13:22:19**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e)
+
+*****************Erreur apparue le 26/01/2023 14:23:42**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 26/01/2023 15:42:11**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 28/01/2023 09:21:50**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 28/01/2023 09:22:43**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 28/01/2023 10:24:51**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 28/01/2023 13:49:10**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à GestionPharmacetique.Forme.DepenseFrm.<ListeDesDepensesEffectues>b__1d(<>f__AnonymousType2`2 <>h__TransparentIdentifier18) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 299
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   à System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   à GestionPharmacetique.Forme.DepenseFrm.ListeDesDepensesEffectues() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 314
+
+*****************Erreur apparue le 28/01/2023 13:58:33**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 28/01/2023 13:59:57**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à GestionPharmacetique.Forme.DepenseFrm.<ListeDesDepensesEffectues>b__1d(<>f__AnonymousType2`2 <>h__TransparentIdentifier18) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 299
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   à System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   à GestionPharmacetique.Forme.DepenseFrm.ListeDesDepensesEffectues() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 314
+
+*****************Erreur apparue le 28/01/2023 14:10:30**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 28/01/2023 14:22:39**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à GestionPharmacetique.Forme.DepenseFrm.<ListeDesDepensesEffectues>b__1d(<>f__AnonymousType2`2 <>h__TransparentIdentifier18) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 299
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   à System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   à GestionPharmacetique.Forme.DepenseFrm.ListeDesDepensesEffectues() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 314
+
+*****************Erreur apparue le 15/04/2023 14:39:50**********************
+creation du dossier
+IOException
+Le chemin réseau n’a pas été trouvé.
+
+System.IO.IOException: Le chemin réseau n’a pas été trouvé.
+
+   à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   à System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   à System.IO.Directory.CreateDirectory(String path)
+   à SGSP.Formes.ListeDesPersonelsFrm.button3_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeDesPersonels.cs:ligne 757
+
+*****************Erreur apparue le 15/04/2023 14:39:55**********************
+Transfert de l'image
+IOException
+Le chemin réseau n’a pas été trouvé.
+
+System.IO.IOException: Le chemin réseau n’a pas été trouvé.
+
+   à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   à System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   à System.IO.Directory.CreateDirectory(String path)
+   à SGSP.Formes.ListeDesPersonelsFrm.button6_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeDesPersonels.cs:ligne 839
+
+*****************Erreur apparue le 15/04/2023 14:43:10**********************
+t
+IndexOutOfRangeException
+L'index se trouve en dehors des limites du tableau.
+System.IndexOutOfRangeException: L'index se trouve en dehors des limites du tableau.
+   à MySql.Data.Types.MySqlDateTime.ParseMySql(String s)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDateTime(Int32 i)
+   à SGSP.AppCode.ConnectionClass.ListeFormation() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2990
+   à SGSP.Formes.FormationFrm.ListeDesFormations() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\FormationFrm.cs:ligne 170
+
+*****************Erreur apparue le 15/04/2023 14:43:42**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 15/04/2023 14:46:51**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:33**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:47:34**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:19**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:48:41**********************
+
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à SGSP.AppCode.ConnectionClass.CumulDesOperations(String field, Int32 exercice, String numeroMatricule, DateTime date) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2271
+
+*****************Erreur apparue le 15/04/2023 14:56:46**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à SGSP.Formes.DetailDocumentFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DetailPaiementRecettesFrm.cs:ligne 365
+
+*****************Erreur apparue le 15/04/2023 14:58:42**********************
+Liste Depenses
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   à System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   à System.Convert.ToInt32(String value)
+   à GestionPharmacetique.Forme.DepenseFrm.<ListeDesDepensesEffectues>b__1d(<>f__AnonymousType2`2 <>h__TransparentIdentifier18) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 299
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   à System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   à GestionPharmacetique.Forme.DepenseFrm.ListeDesDepensesEffectues() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\GRH\GestionDesPelerinsTchad\Formes\DepenseFrm.cs:ligne 314
+

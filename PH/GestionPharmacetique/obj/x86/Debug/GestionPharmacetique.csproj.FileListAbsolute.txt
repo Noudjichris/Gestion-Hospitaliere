@@ -1,0 +1,113 @@
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\log\log_account.txt
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\log\log_erreur.txt
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.application
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\GestionPharmacetique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ComptabiliteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.DepotFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DetailProFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.DocStock.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EtatStockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\ImpoterLesDonneesExcels.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.FournisseurCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.FournisseurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FrmType.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDateExpiration.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.JournalDesLivraisonsFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeClientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeModFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeProduitAvecLot.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeProduitFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeDistributionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionDesVetements.Formes.ListePaiementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LivraisonFournisseurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.ModifTsockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.CaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportDesEntreprises.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RetourLivrFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.SplashScreen.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.TauxFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe.manifest
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.application
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csprojAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csproj.CoreCompileInputs.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.AlerteStockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SystemeGestionAgenceVoyage.GUI.ChangerMotPasseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ComptabiliteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.DepotFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.DetailProFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.DocStock.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EnCaissementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.EtatStockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.FamilleMedicamentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\ImpoterLesDonneesExcels.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.FournisseurCtrl.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.FournisseurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.FrmType.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDesProduitsFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.InventaireDateExpiration.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.JournalDesLivraisonsFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeClientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeModFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeProduitAvecLot.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListeProduitFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.listeDistributionFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionDesVetements.Formes.ListePaiementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ListVentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LivraisonFournisseurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.LoginForm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.MedicamentFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.ModifTsockFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.CaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.PrixParamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportDesEntreprises.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RapportVenteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RechercheMedicamentIndiFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.ResultatRechercheFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.RetourLivrFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.SplashScreen.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.StatistiquePharmacieFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\SGDP.Formes.TauxFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Forme.VenteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csproj.GenerateResource.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csproj.CoreCompileInputs.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Hopital de Bebidja\PH\GestionPharmacetique\obj\x86\Debug\GestionPharmacetique.csproj.AssemblyReference.cache

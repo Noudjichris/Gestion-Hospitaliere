@@ -5,6 +5,7 @@ namespace SGSP.AppCode
 {
    public  class Bilan
     {
+       public double GRGR{get; set}
         public int IDBilan { get; set; }
         public int IDDetailBilan { get; set; }
         public int Annee { get; set; }

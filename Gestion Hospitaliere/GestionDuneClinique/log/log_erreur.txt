@@ -1,0 +1,117 @@
+﻿*****************Erreur apparue le 18/05/2023 06:26:09**********************
+Liste entreprise
+IndexOutOfRangeException
+L'index se trouve en dehors des limites du tableau.
+System.IndexOutOfRangeException: L'index se trouve en dehors des limites du tableau.
+   à MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   à MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   à MySql.Data.MySqlClient.MySqlDataReader.IsDBNull(Int32 i)
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.ListeDesEntreprises() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassClinique.cs:ligne 4162
+
+*****************Erreur apparue le 18/05/2023 06:26:44**********************
+Liste entreprise
+IndexOutOfRangeException
+L'index se trouve en dehors des limites du tableau.
+System.IndexOutOfRangeException: L'index se trouve en dehors des limites du tableau.
+   à MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   à MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   à MySql.Data.MySqlClient.MySqlDataReader.IsDBNull(Int32 i)
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.ListeDesEntreprises() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassClinique.cs:ligne 4162
+
+*****************Erreur apparue le 18/05/2023 06:26:45**********************
+Liste entreprise
+IndexOutOfRangeException
+L'index se trouve en dehors des limites du tableau.
+System.IndexOutOfRangeException: L'index se trouve en dehors des limites du tableau.
+   à MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   à MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   à MySql.Data.MySqlClient.MySqlDataReader.IsDBNull(Int32 i)
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.ListeDesEntreprises(String entrepri) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassClinique.cs:ligne 4235
+
+*****************Erreur apparue le 18/05/2023 06:28:39**********************
+
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à GestionDuneClinique.Formes.FactureFrm.btnAjouter_Click(Object sender, EventArgs e)
+
+*****************Erreur apparue le 2023-05-23 06:53:10**********************
+Liste entreprise
+IndexOutOfRangeException
+L'index se trouve en dehors des limites du tableau.
+System.IndexOutOfRangeException: L'index se trouve en dehors des limites du tableau.
+   à MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   à MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetValue(Int32 i)
+   à MySql.Data.MySqlClient.MySqlDataReader.IsDBNull(Int32 i)
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.ListeDesEntreprises() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassClinique.cs:ligne 4162
+
+*****************Erreur apparue le 2023-05-29 13:47:17**********************
+back up files
+MySqlException
+Fatal error encountered during data read.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during data read. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Impossible de lire les données de la connexion de transport : Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte. ---> System.Net.Sockets.SocketException: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+   à System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   à System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fin de la trace de la pile d'exception interne ---
+   à MySql.Data.Common.MyNetworkStream.HandleOrRethrowException(Exception e)
+   à MySql.Data.Common.MyNetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   à System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.FetchDataRow(Int32 statementId, Int32 columns)
+   à MySql.Data.MySqlClient.Driver.FetchDataRow(Int32 statementId, Int32 columns)
+   à MySql.Data.MySqlClient.ResultSet.GetNextRow()
+   à MySql.Data.MySqlClient.ResultSet.NextRow(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlDataReader.Read()
+   à MySql.Data.MySqlClient.MySqlDataReader.Read()
+   à MySql.Data.MySqlClient.MySqlBackup.Export_RowsData_Insert_Ignore_Replace(String tableName, String selectSQL)
+   à MySql.Data.MySqlClient.MySqlBackup.Export_RowsData(String tableName, String selectSQL)
+   à MySql.Data.MySqlClient.MySqlBackup.Export_Rows(String tableName, String selectSQL)
+   à MySql.Data.MySqlClient.MySqlBackup.Export_TableRows()
+   à MySql.Data.MySqlClient.MySqlBackup.ExportStart()
+   à MySql.Data.MySqlClient.MySqlBackup.ExportToFile(String filePath)
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.Backup(String sFilePath) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassClinique.cs:ligne 37
+
+*****************Erreur apparue le 2023-05-29 13:47:32**********************
+back up files
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à GestionDuneClinique.AppCode.ConnectionClassPharmacie.Backup(String sFilePath) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassPharmacie.cs:ligne 33
+
+*****************Erreur apparue le 2023-06-03 10:31:49**********************
+back up files
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à GestionDuneClinique.AppCode.ConnectionClassPharmacie.Backup(String sFilePath) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\AppCode\ConnectionClassPharmacie.cs:ligne 33
+

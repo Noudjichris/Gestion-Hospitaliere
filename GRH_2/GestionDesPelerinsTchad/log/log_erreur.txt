@@ -1,0 +1,239 @@
+﻿*****************Erreur apparue le 22/07/2021 15:00:14**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:00:14**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:00:41**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:00:41**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:03:13**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:03:16**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:03:39**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:04:02**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:04:42**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:04:53**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:06:15**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:06:22**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:06:39**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:06:45**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:12:08**********************
+Liste detail paiement
+FormatException
+Le format de la chaîne d'entrée est incorrect.
+System.FormatException: Le format de la chaîne d'entrée est incorrect.
+   à System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   à System.String.System.IConvertible.ToDouble(IFormatProvider provider)
+   à System.Convert.ToDouble(Object value)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetDouble(Int32 i)
+   à SGSP.AppCode.ConnectionClass.PaiementParMatricule(String numeMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 2067
+
+*****************Erreur apparue le 22/07/2021 15:12:08**********************
+form load
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PaiementForme.PaiementForme_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PaiementForme.cs:ligne 301
+
+*****************Erreur apparue le 22/07/2021 15:13:53**********************
+Liste accompte
+FormatException
+La chaîne n'a pas été reconnue en tant que DateTime valide.
+System.FormatException: La chaîne n'a pas été reconnue en tant que DateTime valide.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.ObtenirDebutJour(Int32 mois) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 333
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.<cmbMois_SelectedIndexChanged>b__7(Acompte a) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 253
+   à System.Linq.Enumerable.<>c__DisplayClass6_0`1.<CombinePredicates>b__0(TSource x)
+   à System.Linq.Enumerable.WhereEnumerableIterator`1.MoveNext()
+   à SGSP.Formes.ListeAvanceSurSalaireFrm.cmbMois_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\ListeAvanceSurSalaireFrm.cs:ligne 258
+
+*****************Erreur apparue le 22/07/2021 15:14:13**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 22/07/2021 15:15:05**********************
+Suppression paiement
+MySqlException
+Unknown column 'cout_absc' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'cout_absc' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.InsererModifierOrdreDePaiement(Paiement paiement, Int32 idAcompte) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1811
+
+
+*****************Erreur apparue le 22/07/2021 15:15:10**********************
+Suppression paiement
+MySqlException
+Unknown column 'cout_absc' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'cout_absc' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.InsererModifierOrdreDePaiement(Paiement paiement, Int32 idAcompte) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1811
+
+
+*****************Erreur apparue le 22/07/2021 15:18:27**********************
+Suppression paiement
+MySqlException
+Cannot add or update a child row: a foreign key constraint fails (`personnel_db`.`paimn_tbl`, CONSTRAINT `orderkey` FOREIGN KEY (`id_pai`) REFERENCES `ordre_pai` (`id_paie`) ON DELETE CASCADE ON UPDATE CASCADE)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`personnel_db`.`paimn_tbl`, CONSTRAINT `orderkey` FOREIGN KEY (`id_pai`) REFERENCES `ordre_pai` (`id_paie`) ON DELETE CASCADE ON UPDATE CASCADE)
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.InsererModifierOrdreDePaiement(Paiement paiement, Int32 idAcompte) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1811
+
+
+*****************Erreur apparue le 22/07/2021 15:18:40**********************
+Suppression paiement
+MySqlException
+Cannot add or update a child row: a foreign key constraint fails (`personnel_db`.`paimn_tbl`, CONSTRAINT `orderkey` FOREIGN KEY (`id_pai`) REFERENCES `ordre_pai` (`id_paie`) ON DELETE CASCADE ON UPDATE CASCADE)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`personnel_db`.`paimn_tbl`, CONSTRAINT `orderkey` FOREIGN KEY (`id_pai`) REFERENCES `ordre_pai` (`id_paie`) ON DELETE CASCADE ON UPDATE CASCADE)
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.InsererModifierOrdreDePaiement(Paiement paiement, Int32 idAcompte) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1811
+
+
+*****************Erreur apparue le 22/07/2021 15:21:29**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH_2\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+

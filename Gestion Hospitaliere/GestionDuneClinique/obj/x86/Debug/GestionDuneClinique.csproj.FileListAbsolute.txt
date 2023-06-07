@@ -1,0 +1,167 @@
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.GroupeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\SGSP.Formes.JournalDeCaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\SGSP.Formes.ListePerso.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProduitFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.SplashScreen.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StatistiqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StringGetterFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TypeConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.GroupeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\SGSP.Formes.JournalDeCaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\SGSP.Formes.ListePerso.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProDetFactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProduitFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProFactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.RequeteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.SplashScreen.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StatistiqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StringGetterFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TypeConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\SGDP.Formes.DateFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.GroupeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\SGSP.Formes.JournalDeCaisseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\SGSP.Formes.ListePerso.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProDetFactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProduitFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ProFactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.RequeteFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.SplashScreen.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StatistiqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StringGetterFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TypeConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\Gestion Hospitaliere\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache

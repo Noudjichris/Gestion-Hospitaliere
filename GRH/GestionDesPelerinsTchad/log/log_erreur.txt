@@ -1,0 +1,454 @@
+﻿*****************Erreur apparue le 23/09/2021 10:04:31**********************
+liste personnel
+MySqlException
+Unknown column 'pers_tbl.no_compte' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'pers_tbl.no_compte' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.ListeDesPersonnelParNumeroMatricule(String numMatricule) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1002
+
+*****************Erreur apparue le 23/09/2021 10:04:32**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 109
+
+*****************Erreur apparue le 28/09/2021 11:05:18**********************
+Liste
+ArgumentException
+You have specified an invalid column ordinal.
+System.ArgumentException: You have specified an invalid column ordinal.
+   à MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   à MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   à SGSP.AppCode.ConnectionClass.ListeDesAccompte(Int32 id, String numMatricule, Double montant) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4027
+
+*****************Erreur apparue le 28/09/2021 11:05:18**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 28/09/2021 11:09:48**********************
+Liste
+ArgumentException
+You have specified an invalid column ordinal.
+System.ArgumentException: You have specified an invalid column ordinal.
+   à MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   à MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.Throw(Exception ex)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetString(Int32 i)
+   à SGSP.AppCode.ConnectionClass.ListeDesAccompte(Int32 id, String numMatricule, Double montant) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 4027
+
+*****************Erreur apparue le 28/09/2021 11:09:48**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 09/10/2021 11:26:04**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 659
+
+*****************Erreur apparue le 16/10/2021 12:19:15**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 16/10/2021 12:23:32**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 16/10/2021 12:39:49**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/10/2021 14:47:13**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/10/2021 14:58:29**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/10/2021 15:00:17**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/10/2021 15:02:46**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/10/2021 15:12:38**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/10/2021 15:17:13**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 19/10/2021 15:19:50**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 659
+
+*****************Erreur apparue le 07/11/2021 16:51:35**********************
+
+MySqlException
+Unknown column 'etat' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'etat' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 659
+
+*****************Erreur apparue le 26/11/2021 13:16:41**********************
+Erreur
+MySqlException
+Unknown column 'num_emplo' in 'field list'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'num_emplo' in 'field list'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.EnregistrerUneAbsence(Absence abscence) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1472
+
+
+*****************Erreur apparue le 26/11/2021 13:29:46**********************
+Erreur
+MySqlException
+Field 'id_absc' doesn't have a default value
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'id_absc' doesn't have a default value
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.EnregistrerUneAbsence(Absence abscence) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1471
+
+
+*****************Erreur apparue le 26/11/2021 14:04:21**********************
+Erreur
+MySqlException
+Column count doesn't match value count at row 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Column count doesn't match value count at row 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.EnregistrerUnConge(Conge conge, String etat) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 1368
+
+
+*****************Erreur apparue le 13/12/2021 15:01:57**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 13/12/2021 15:02:03**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 15/12/2021 13:17:42**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à SGSP.Formes.PayeFrm.printDocument1_PrintPage(Object sender, PrintPageEventArgs e)
+   à System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   à System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   à System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   à System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   à System.Drawing.Printing.PrintDocument.Print()
+   à System.Windows.Forms.PrintPreviewControl.ComputePreview()
+   à System.Windows.Forms.PrintPreviewControl.CalculatePageInfo()
+   à System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   à System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   à System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   à System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   à System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   à System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   à System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   à System.Windows.Forms.Control.WndProc(Message& m)
+   à System.Windows.Forms.PrintPreviewControl.WndProc(Message& m)
+   à System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   à System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   à System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   à System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   à System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   à System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   à System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   à System.Windows.Forms.Application.RunDialog(Form form)
+   à System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   à System.Windows.Forms.Form.ShowDialog()
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e)
+
+*****************Erreur apparue le 16/12/2021 08:57:04**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 658
+
+*****************Erreur apparue le 21/12/2021 14:06:29**********************
+
+MySqlException
+Fatal error encountered during command execution.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered attempting to read the resultset. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Impossible de lire les données de la connexion de transport : Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte. ---> System.Net.Sockets.SocketException: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+   à System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   à System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fin de la trace de la pile d'exception interne ---
+   à MySql.Data.Common.MyNetworkStream.HandleOrRethrowException(Exception e)
+   à MySql.Data.Common.MyNetworkStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   à System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 686
+
+*****************Erreur apparue le 21/12/2021 14:09:04**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 21/12/2021 14:10:01**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 21/12/2021 14:51:43**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 21/12/2021 14:51:57**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 21/12/2021 14:52:09**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 21/12/2021 14:56:16**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e)
+
+*****************Erreur apparue le 21/12/2021 14:56:54**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e)
+
+*****************Erreur apparue le 21/12/2021 15:00:27**********************
+
+FormatException
+La chaîne n'a pas été reconnue comme DateTime valide. Il existe un mot inconnu commençant à l'index 3.
+System.FormatException: La chaîne n'a pas été reconnue comme DateTime valide. Il existe un mot inconnu commençant à l'index 3.
+   à System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   à System.DateTime.Parse(String s)
+   à SGSP.AppCode.Impression.ObtenirFinJour(String mois, Int32 exercice) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\Impression.cs:ligne 2152
+   à SGSP.AppCode.Impression.ImprimerUnBulletinDePaie(Paiement paiement, Personnel personnel, Service service) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\Impression.cs:ligne 2296
+
+*****************Erreur apparue le 21/12/2021 15:02:47**********************
+Impression du bulletin
+NullReferenceException
+La référence d'objet n'est pas définie à une instance d'un objet.
+System.NullReferenceException: La référence d'objet n'est pas définie à une instance d'un objet.
+   à sharpPDF.Elements.pdfImageReference..ctor(Image myImage)
+   à sharpPDF.pdfDocument.addImageReference(Image imageObject, String imageName)
+   à SGSP.Formes.PayeFrm.button8_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 248
+
+*****************Erreur apparue le 10/03/2022 11:55:44**********************
+Remplissage des donnees
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à SGSP.Formes.PayeFrm.RemplissageDesDonnees() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\Formes\PayeFrm.cs:ligne 102
+
+*****************Erreur apparue le 18/05/2022 12:15:00**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): Une opération a été tentée sur un hôte impossible à atteindre 192.168.1.3:3306
+   à System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   à System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   à MySql.Data.Common.MyNetworkStream.CreateSocketStream(MySqlConnectionStringBuilder settings, IPAddress ip, Boolean unix)
+   à MySql.Data.Common.MyNetworkStream.CreateStream(MySqlConnectionStringBuilder settings, Boolean unix)
+   à MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 658
+
+*****************Erreur apparue le 18/05/2022 12:50:18**********************
+
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à SGSP.AppCode.ConnectionClass.MettreAJourAnciennete() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\HNDA Gestion New version\GRH\GestionDesPelerinsTchad\AppCode\ConnectionClass.cs:ligne 658
+

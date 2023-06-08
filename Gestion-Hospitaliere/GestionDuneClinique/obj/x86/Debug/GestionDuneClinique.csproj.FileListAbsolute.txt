@@ -1,0 +1,286 @@
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListePatientEntreprise.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeVenteMedicFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\AdvDataGridView.dll
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\AdvListBox.dll
+C:\Users\CHRIST\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ChargerListeEmplFrm.resources
+D:\Bureau christian\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+D:\Bureau christian\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+D:\Bureau christian\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\AdvDataGridView.dll
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\bin\Debug\AdvListBox.dll
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ChargerListeEmplFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Notre Dames Des Apotres\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\AdvDataGridView.dll
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\bin\Debug\AdvListBox.dll
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.DepenseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion de clinique\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\AdvDataGridView.dll
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\AdvListBox.dll
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StatistiqueFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EncaissementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Gestion du centre de sante SOS\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EncaissementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ObservationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StatistiqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe.config
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\AppData\Database1.sdf
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\GestionDuneClinique.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\GestionDuneClinique.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\MySql.Data.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\bin\Debug\MySqlBackup.dll
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ActeDeNaissanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.AdminFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeDecesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.CertificatDeGrossesseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EncaissementFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.DetailRapportFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.EmployeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.EntreEmplFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.EntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.FactureFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionAcademique.Form1.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.JournalDesRecettesFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeConsultation.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeHospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeOrdoFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListeSCFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.MontantFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.ObservationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.AppCode.OrdonnanceFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ConsultationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionPharmacetique.Forme.ExamenFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.HospitalisationFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.ListeExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.PatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportCaissierFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportEntrepriseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportMedecinFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Formes.RapportPatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.StatistiqueFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.FormesClinique.TableDesAnalyseFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.TrackFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDesPelerinsTchad.Formes.SalleFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\Alshifa new version\GestionDuneClinique\obj\x86\Debug\GestionDuneClinique.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+*****************Erreur apparue le 02/12/2020 12:40:37**********************
+Rapport vente
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   à System.Collections.Generic.List`1.get_Item(Int32 index)
+   à GestionPharmacetique.Forme.StatistiqueFrm.StatistiqueFrm_Load(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\MyProject\Alshifa new version\PH\GestionPharmacetique\Forme\StatistiqueFrm.cs:ligne 70
+

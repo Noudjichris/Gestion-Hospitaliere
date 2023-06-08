@@ -1,0 +1,71 @@
+﻿*****************Erreur apparue le 03/03/2023 09:54:30**********************
+Erreur obtenir numero analyse
+InvalidCastException
+Le cast spécifié n'est pas valide.
+System.InvalidCastException: Le cast spécifié n'est pas valide.
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.ObtenirDernierNumeroAnalyse(String numEmpl) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Gestion du centre de sante SOS\GestionDuneClinique\AppCode\ConnectionClassClinique.cs:ligne 966
+
+*****************Erreur apparue le 03/03/2023 09:54:31**********************
+
+IndexOutOfRangeException
+Aucune ligne à la position 0.
+System.IndexOutOfRangeException: Aucune ligne à la position 0.
+   à System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   à System.Data.DataRowCollection.get_Item(Int32 index)
+   à GestionDuneClinique.Formes.FactureFrm.btnAjouter_Click(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Gestion du centre de sante SOS\GestionDuneClinique\FormesClinique\FactureFrm.cs:ligne 217
+
+*****************Erreur apparue le 03/03/2023 09:56:26**********************
+Erreur  
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UN TUMEUR%' AND facture_tbl.date_fact >= @date1 AND facture_tbl.date_fact < @dat' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UN TUMEUR%' AND facture_tbl.date_fact >= @date1 AND facture_tbl.date_fact < @dat' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.CountDetailsActes(String designation, DateTime dt1, DateTime dt2)
+
+*****************Erreur apparue le 03/03/2023 09:56:26**********************
+Erreur  
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UN TUMEUR%' AND pro_facture_tbl.date_fact >= @date1 AND pro_facture_tbl.date_fac' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UN TUMEUR%' AND pro_facture_tbl.date_fact >= @date1 AND pro_facture_tbl.date_fac' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.CountDetailsActesDansConventionnes(String designation, DateTime dt1, DateTime dt2)
+
+*****************Erreur apparue le 2023-05-24 09:50:35**********************
+Imprimer facture 
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : font
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : font
+   à System.Drawing.Graphics.DrawString(String s, Font font, Brush brush, RectangleF layoutRectangle, StringFormat format)
+   à System.Drawing.Graphics.DrawString(String s, Font font, Brush brush, Single x, Single y)
+   à GestionDuneClinique.AppCode.Impression.FactureOfficielle(Int32 numeroFacture, DataGridView dtGrid, Patient patient, String modePaiement, Double remise, String caissier)
+   à GestionDuneClinique.Formes.FactureFrm.btnImprimer_Click(Object sender, EventArgs e)
+
+*****************Erreur apparue le 2023-05-24 09:54:47**********************
+Erreur obtenir numero analyse
+MySqlException
+Unknown column 'idcai' in 'where clause'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'idcai' in 'where clause'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   à GestionDuneClinique.AppCode.ConnectionClassClinique.ObtenirDerniereConsultation(String numEmple)
+

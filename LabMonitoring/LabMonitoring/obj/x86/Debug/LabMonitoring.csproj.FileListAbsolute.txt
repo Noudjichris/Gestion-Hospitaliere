@@ -1,0 +1,38 @@
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.ExamFrm.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.MainForm.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.GenerateResource.Cache
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.exe
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.pdb
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\CHRIS\Desktop\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.exe
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.pdb
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.ExamFrm.resources
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.MainForm.resources
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Properties.Resources.resources
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.GenerateResource.Cache
+E:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csprojResolveAssemblyReference.cache
+D:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+D:\PROGRAMMES\MyProject\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.ExamFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDuneClinique.FormesClinique.ListePatientFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.MainForm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionPharmacetique.MonMessageBox.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Formes.UtilisateurFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.Properties.Resources.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csproj.GenerateResource.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.exe
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\bin\Debug\LabMonitoring.pdb
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\LabMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionAcademique.LoginFrm.resources
+C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\obj\x86\Debug\GestionDesPelerinsTchad.Formes.ModifierMotPasse.resources

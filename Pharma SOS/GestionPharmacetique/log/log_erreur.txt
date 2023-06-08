@@ -1,0 +1,188 @@
+*****************Erreur apparue le 17/05/2023 10:36:50**********************
+Erreur
+MySqlException
+Not unique table/alias: 'det_invent'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Not unique table/alias: 'det_invent'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.ListeDetailsInventaire(Int32 id) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 5961
+
+*****************Erreur apparue le 17/05/2023 10:36:50**********************
+
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : source
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : source
+   à System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   à GestionPharmacetique.Forme.InventaireDesProduitsFrm.dataGridView2_DoubleClick(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\Forme\InventaireDesProduitsFrm.cs:ligne 386
+
+*****************Erreur apparue le 17/05/2023 10:40:21**********************
+Erreur
+MySqlException
+Not unique table/alias: 'det_invent'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Not unique table/alias: 'det_invent'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.ListeDetailsInventaire(Int32 id) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 5961
+
+*****************Erreur apparue le 17/05/2023 10:40:21**********************
+
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : source
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : source
+   à System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   à GestionPharmacetique.Forme.InventaireDesProduitsFrm.dataGridView2_DoubleClick(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\Forme\InventaireDesProduitsFrm.cs:ligne 386
+
+*****************Erreur apparue le 17/05/2023 10:40:56**********************
+Erreur
+MySqlException
+Not unique table/alias: 'det_invent'
+MySql.Data.MySqlClient.MySqlException (0x80004005): Not unique table/alias: 'det_invent'
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.ListeDetailsInventaire(Int32 id) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 5961
+
+*****************Erreur apparue le 17/05/2023 10:40:56**********************
+
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : source
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : source
+   à System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   à GestionPharmacetique.Forme.InventaireDesProduitsFrm.dataGridView2_DoubleClick(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\Forme\InventaireDesProduitsFrm.cs:ligne 386
+
+*****************Erreur apparue le 17/05/2023 10:43:59**********************
+Erreur
+InvalidCastException
+Cast non valide de 'DateTime' en 'Int32'.
+System.InvalidCastException: Cast non valide de 'DateTime' en 'Int32'.
+   à System.DateTime.System.IConvertible.ToInt32(IFormatProvider provider)
+   à System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   à MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   à MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   à GestionPharmacetique.AppCode.ConnectionClass.ListeDetailsInventaire(Int32 id) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 5967
+
+*****************Erreur apparue le 17/05/2023 10:43:59**********************
+
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : source
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : source
+   à System.Linq.OrderedEnumerable`2..ctor(IEnumerable`1 source, Func`2 keySelector, IComparer`1 comparer, Boolean descending)
+   à System.Linq.Enumerable.OrderBy[TSource,TKey](IEnumerable`1 source, Func`2 keySelector)
+   à GestionPharmacetique.Forme.InventaireDesProduitsFrm.dataGridView2_DoubleClick(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\Forme\InventaireDesProduitsFrm.cs:ligne 386
+
+*****************Erreur apparue le 17/05/2023 13:33:30**********************
+Form load
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.Collections.ArrayList.get_Item(Int32 index)
+   à System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   à System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   à SGDP.Formes.JournalDesLivraisonsFrm.comboBox1_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\Forme\JournalDesLivraisonsFrm.cs:ligne 306
+
+*****************Erreur apparue le 17/05/2023 13:55:29**********************
+
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.RapportDeLivraisonGroupe(String fournisseur) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 6164
+
+*****************Erreur apparue le 17/05/2023 13:56:49**********************
+
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.RapportDeLivraisonGroupe(String fournisseur) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 6164
+
+*****************Erreur apparue le 17/05/2023 13:58:59**********************
+
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'HAVING  medicament.nom_medi,cmd_tbl.prix_achat' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'HAVING  medicament.nom_medi,cmd_tbl.prix_achat' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.RapportDeLivraisonGroupe(String fournisseur) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 6164
+
+*****************Erreur apparue le 17/05/2023 14:23:31**********************
+Form load
+ArgumentOutOfRangeException
+L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+System.ArgumentOutOfRangeException: L'index était hors limites. Il ne doit pas être négatif et doit être inférieur à la taille de la collection.
+Nom du paramètre : index
+   à System.Collections.ArrayList.get_Item(Int32 index)
+   à System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   à System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   à SGDP.Formes.JournalDesLivraisonsFrm.comboBox1_SelectedIndexChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\Forme\JournalDesLivraisonsFrm.cs:ligne 215
+
+*****************Erreur apparue le 17/05/2023 14:52:44**********************
+
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ACHAT%'  GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat ORDER BY  medicament.n' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ACHAT%'  GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat ORDER BY  medicament.n' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.RapportDeLivraisonGroupe(String fournisseur) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 6164
+
+*****************Erreur apparue le 17/05/2023 14:52:44**********************
+
+MySqlException
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DJAMENA SUD%'  GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat ORDER BY  medica' at line 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DJAMENA SUD%'  GROUP BY  medicament.nom_medi,cmd_tbl.prix_achat ORDER BY  medica' at line 1
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   à MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   à MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   à MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   à GestionPharmacetique.AppCode.ConnectionClass.RapportDeLivraisonGroupe(String fournisseur) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\Pharma SOS\GestionPharmacetique\AppCode\ConnectionClass.cs:ligne 6164
+

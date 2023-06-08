@@ -1,0 +1,508 @@
+***************** Date et Heure de connection 13/12/2017 12:44:04  **********************
+ ADMIN a change son mot de passe
+
+***************** Date et Heure 10/06/2021 10:58:49  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 10 stock depot 0  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 10:59:27  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 25 stock depot 500  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:00:06  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 0  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:03:45  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du PRODUIT POUR TEST  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:03:56  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du PRODUIT POUR TEST  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:04:37  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du PRODUIT POUR TEST  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:05:18  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 350 stock depot 2000  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:05:44  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 3 stock depot 50  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:06:01  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ACIDE FOLIQUE 5MG CP  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:06:14  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ACIDE FOLIQUE 5MG CP  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:06:27  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ACLAV 100MG SP FLACON/60ML  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:06:34  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ACLAV 100MG SP FLACON/60ML  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:07:16  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ACLAV 500MG B/12  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 11:28:14  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 10/06/2021 11:39:57  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 10/06/2021 12:17:09  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'une nouvelle  commande pour le 0  
+Fenetre vente  :  LivraisonFournisseurFrm 
+
+***************** Date et Heure 10/06/2021 12:59:37  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 6862 du  12  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/06/2021 13:22:05  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du credit numero 6863 du  ABDRAMAN  MOUSSA NASSIR  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/06/2021 13:23:20  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du credit numero 6864 du  ABDOULAYE GUIDOUM  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/06/2021 13:25:36  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du credit numero 6865 du  ADA  DJIBRINE  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/06/2021 13:28:34  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du credit numero 6867 du  AHMAT MAHAMAT NOUR  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/06/2021 13:57:30  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau inventaire pour le Grand depôt  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/06/2021 14:10:46  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau inventaire pour le Grand depôt  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/06/2021 14:13:13  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Continuer  inventaire pour le 35  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/06/2021 14:17:16  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation de l'inventaire  35  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/06/2021 14:17:54  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau inventaire pour le Pharmacie  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/06/2021 14:18:53  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation de l'inventaire  36  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/06/2021 16:59:14  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 100  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 17:04:38  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 50  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 17:05:16  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 5  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 17:10:30  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers le laboratoire  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 10/06/2021 17:11:43  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Suppression du lot LOT003 du produit ACIDE URIQUE B/200ML  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 17:11:48  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 10 stock depot 5  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/06/2021 17:14:01  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation du mouvement de réference : Mouvement du grand stock vers le laboratoire  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 07/07/2021 17:55:37  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers le laboratoire  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 07/07/2021 18:02:46  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 10 stock depot 5  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 07/07/2021 18:05:55  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation du mouvement de réference : Mouvement du grand stock vers le laboratoire  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 10/07/2021 12:48:05  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 885  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 12:49:46  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 885  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 12:49:52  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ABAISSE LANGUE  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 12:49:56  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Suppression du lot 12345 du produit ABAISSE LANGUE  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 12:50:31  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 10 stock depot 0  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 12:53:12  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du lot numero  du ABAISSE LANGUE  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 13:45:20  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'une nouvelle  commande pour le 0  
+Fenetre vente  :  LivraisonFournisseurFrm 
+
+***************** Date et Heure 10/07/2021 13:46:18  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 0 stock depot 100  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 13:48:14  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau document pour le mouvement de  stock  
+Fenetre vente  :  DocStock 
+
+***************** Date et Heure 10/07/2021 13:50:05  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 10/07/2021 13:50:32  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 10/07/2021 13:51:39  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du credit numero 9030 du  ABBAS IDRISS   IDRISS  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/07/2021 13:53:12  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Suppression du lot  du produit QWERTYUIOP  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 13:54:40  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau inventaire pour le Pharmacie  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/07/2021 13:55:30  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Suppression de l' inventaire numero29  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 10/07/2021 13:56:16  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Suppression de la   commande numero 23  
+Fenetre vente  :  LivraisonFournisseurFrm 
+
+***************** Date et Heure 10/07/2021 13:56:28  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Suppression  du produitQWERTYUIOP de la liste  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 10/07/2021 13:56:47  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 9030 de  ABBAS IDRISS   IDRISS  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 10/07/2021 13:56:50  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 9029 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 10/07/2021 13:57:19  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : suppression du mouvement du mouvement MOUVEMENT SORTIE de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ListeModFrm 
+
+***************** Date et Heure 10/07/2021 14:15:01  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du credit numero 9031 du  ABDELFATHA  ABDELKERIM  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 10/07/2021 14:33:34  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 9032 de  ACHTA AL HADJE  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 10/07/2021 14:33:40  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 9031 de  ABDELFATHA  ABDELKERIM  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 13/07/2021 14:45:53  **********************
+ Utilisateur  :   
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 13/07/2021 14:46:51  **********************
+ Utilisateur  :   
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 13/07/2021 14:47:25  **********************
+ Utilisateur  :   
+ Operation  : Validation du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 13/07/2021 14:47:43  **********************
+ Utilisateur  :   
+ Operation  : Création du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 13/07/2021 14:47:52  **********************
+ Utilisateur  :   
+ Operation  : Validation du mouvement de réference : Mouvement du grand stock vers la pharmacie  
+Fenetre vente  :  ModifTsockFrm 
+
+***************** Date et Heure 24/05/2022 09:33:07  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau inventaire pour le Grand depôt  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 24/05/2022 09:34:09  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation de l'inventaire  37  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 24/05/2022 09:34:26  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'un nouveau inventaire pour le Pharmacie  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 24/05/2022 09:35:34  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Validation de l'inventaire  38  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 24/05/2022 23:59:30  **********************
+ Utilisateur  :   
+ Operation  : Creation d'un nouveau inventaire pour le Pharmacie  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 25/05/2022 00:00:35  **********************
+ Utilisateur  :   
+ Operation  : Validation de l'inventaire  39  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 25/05/2022 00:08:14  **********************
+ Utilisateur  :   
+ Operation  : Continuer  inventaire pour le 39  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 25/05/2022 09:10:39  **********************
+ Utilisateur  :   
+ Operation  : Creation d'un nouveau inventaire pour le Magasin  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 28/05/2022 11:35:48  **********************
+ Utilisateur  :   
+ Operation  : Continuer  inventaire pour le 40  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 28/05/2022 11:36:02  **********************
+ Utilisateur  :   
+ Operation  : Creation d'un nouveau inventaire pour le Magasin  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 28/05/2022 11:44:35  **********************
+ Utilisateur  :   
+ Operation  : Creation d'un nouveau inventaire pour le Pharmacie  
+Fenetre vente  :  InventaireDesProduitsFrm 
+
+***************** Date et Heure 23/09/2022 09:58:24  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'une nouvelle  commande pour le 13  
+Fenetre vente  :  LivraisonFournisseurFrm 
+
+***************** Date et Heure 23/09/2022 09:59:53  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'une nouvelle  commande pour le 13  
+Fenetre vente  :  LivraisonFournisseurFrm 
+
+***************** Date et Heure 23/09/2022 10:03:35  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Creation d'une nouvelle  commande pour le 13  
+Fenetre vente  :  LivraisonFournisseurFrm 
+
+***************** Date et Heure 20/02/2023 14:58:56  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 21527 du  ABAKAR IBRAHIM  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 28/02/2023 21:53:40  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 21541 du  ABAKAR IBRAHIM  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 28/02/2023 22:01:10  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 21543 du  ABRASSE AMALI  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 01/03/2023 06:57:36  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 21545 du  ABAKAR ADAM MAHAMAT  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 08:54:49  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 31301 du    
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 08:59:33  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31301 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 08:59:41  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31300 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:00:47  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 23 stock depot 0  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 07/04/2023 09:01:33  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 31303 du    
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 09:03:03  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31303 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:03:11  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31302 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:03:27  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 31304 du    
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 09:08:40  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31304 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:09:05  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 23 stock depot 0  
+Fenetre vente  :  MedicamentFrm 
+
+***************** Date et Heure 07/04/2023 09:10:17  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 31305 du    
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 09:10:49  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31305 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:37:55  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 31310 du    
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 09:38:29  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : Enregistrement du vente numero 31312 du  ABAKAR IBRAHIM  
+Fenetre vente  :  VenteFrm 
+
+***************** Date et Heure 07/04/2023 09:38:41  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31312 de  ABAKAR IBRAHIM  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:38:45  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31311 de  ABAKAR IBRAHIM  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:38:49  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : annulation de la vente  numero 31310 de  CLIENT COMPTANT  
+Fenetre vente  :  listeDistributionFrm 
+
+***************** Date et Heure 07/04/2023 09:39:23  **********************
+ Utilisateur  : ADMIN INFO  
+ Operation  : enregistrement produit  medicament  Stock pharmacie 23 stock depot 0  
+Fenetre vente  :  MedicamentFrm 
+

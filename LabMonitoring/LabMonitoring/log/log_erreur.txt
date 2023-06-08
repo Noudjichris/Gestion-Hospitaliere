@@ -1,0 +1,168 @@
+﻿*****************Erreur apparue le 29/05/2022 11:53:25**********************
+
+MissingManifestResourceException
+Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+System.Resources.MissingManifestResourceException: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+   à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à System.Resources.ResourceManager.GetObject(String name)
+   à GestionAcademique.LoginFrm.InitializeComponent() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\LoginFrm.designer.cs:ligne 143
+   à GestionAcademique.LoginFrm..ctor() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\LoginFrm.cs:ligne 17
+   à GestionAcademique.LoginFrm.ShowBox() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\LoginFrm.cs:ligne 39
+
+*****************Erreur apparue le 29/05/2022 11:55:30**********************
+
+MissingManifestResourceException
+Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+System.Resources.MissingManifestResourceException: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+   à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à System.Resources.ResourceManager.GetObject(String name)
+   à GestionAcademique.LoginFrm.InitializeComponent()
+   à GestionAcademique.LoginFrm..ctor()
+   à GestionAcademique.LoginFrm.ShowBox()
+
+*****************Erreur apparue le 29/05/2022 11:55:40**********************
+
+MissingManifestResourceException
+Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+System.Resources.MissingManifestResourceException: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+   à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à System.Resources.ResourceManager.GetObject(String name)
+   à GestionAcademique.LoginFrm.InitializeComponent()
+   à GestionAcademique.LoginFrm..ctor()
+   à GestionAcademique.LoginFrm.ShowBox()
+
+*****************Erreur apparue le 29/05/2022 11:55:56**********************
+
+MissingManifestResourceException
+Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+System.Resources.MissingManifestResourceException: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+   à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à System.Resources.ResourceManager.GetObject(String name)
+   à GestionAcademique.LoginFrm.InitializeComponent()
+   à GestionAcademique.LoginFrm..ctor()
+   à GestionAcademique.LoginFrm.ShowBox()
+
+*****************Erreur apparue le 29/05/2022 11:57:19**********************
+
+MissingManifestResourceException
+Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+System.Resources.MissingManifestResourceException: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+   à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à System.Resources.ResourceManager.GetObject(String name)
+   à GestionAcademique.LoginFrm.InitializeComponent()
+   à GestionAcademique.LoginFrm..ctor()
+   à GestionAcademique.LoginFrm.ShowBox()
+
+*****************Erreur apparue le 29/05/2022 12:00:20**********************
+
+MissingManifestResourceException
+Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+System.Resources.MissingManifestResourceException: Impossible de trouver des ressources appropriées pour la culture spécifiée ou la culture neutre. Assurez-vous que "GestionAcademique.LoginFrm.resources" a été correctement incorporé ou lié dans l'assembly "LabMonitoring" au moment de la compilation ou que tous les assemblys satellites requis sont chargeables et complètement signés.
+   à System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+   à System.Resources.ManifestBasedResourceGroveler.GrovelForResourceSet(CultureInfo culture, Dictionary`2 localResourceSets, Boolean tryParents, Boolean createIfNotExists, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo requestedCulture, Boolean createIfNotExists, Boolean tryParents, StackCrawlMark& stackMark)
+   à System.Resources.ResourceManager.InternalGetResourceSet(CultureInfo culture, Boolean createIfNotExists, Boolean tryParents)
+   à System.Resources.ResourceManager.GetObject(String name, CultureInfo culture, Boolean wrapUnmanagedMemStream)
+   à System.Resources.ResourceManager.GetObject(String name)
+   à GestionAcademique.LoginFrm.InitializeComponent() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\LoginFrm.designer.cs:ligne 159
+   à GestionAcademique.LoginFrm..ctor() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\LoginFrm.cs:ligne 17
+   à GestionAcademique.LoginFrm.ShowBox() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\LoginFrm.cs:ligne 39
+
+*****************Erreur apparue le 22/09/2022 13:06:34**********************
+Liste exam
+TimeoutException
+Timeout in IO operation
+System.TimeoutException: Timeout in IO operation
+   à MySql.Data.MySqlClient.TimedStream.StopTimer()
+   à MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   à System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 198
+
+*****************Erreur apparue le 22/09/2022 13:06:35**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 459
+
+*****************Erreur apparue le 03/03/2023 10:29:08**********************
+Liste exam
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 198
+
+*****************Erreur apparue le 03/03/2023 10:29:23**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.txtExamListe_TextChanged(Object sender, EventArgs e) dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 459
+
+*****************Erreur apparue le 03/03/2023 10:29:38**********************
+Liste exam
+MySqlException
+Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   à MySql.Data.MySqlClient.NativeDriver.Open()
+   à MySql.Data.MySqlClient.Driver.Open()
+   à MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   à MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   à MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   à MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à LabMonitoring.AppCode.ConnectionClass.ListeExamen() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\AppCode\ConnectionClass.cs:ligne 198
+
+*****************Erreur apparue le 03/03/2023 10:29:53**********************
+Liste analyse
+ArgumentNullException
+La valeur ne peut pas être null.
+Nom du paramètre : outer
+System.ArgumentNullException: La valeur ne peut pas être null.
+Nom du paramètre : outer
+   à System.Linq.Enumerable.Join[TOuter,TInner,TKey,TResult](IEnumerable`1 outer, IEnumerable`1 inner, Func`2 outerKeySelector, Func`2 innerKeySelector, Func`3 resultSelector)
+   à LabMonitoring.Formes.ExamFrm.ListeAnalyse() dans C:\Users\NOUDJICHRIS\Desktop\Old Bureau\MyProject\SOS New version\LabMonitoring\LabMonitoring\Formes\ExamFrm.cs:ligne 117
+
